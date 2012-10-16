@@ -6,7 +6,7 @@
   "keywords": ["email", "template"],
   "main" : "./stencil",
   "dependencies": {
-    "jade: "*",
+    "jade": "*",
   },
   "repository" : {"type": "git" , "url": "https://github.com/dreadjr/node-email-stencil.git" },
   "engines": { "node": ">=0.4.6" }
