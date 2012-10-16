@@ -1,2 +1,2 @@
-node-email-stencil
+stencil node.js
 ==================
