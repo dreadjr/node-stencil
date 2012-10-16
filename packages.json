@@ -1,0 +1,13 @@
+{ 
+  "name": "node-email-stencil",
+  "description": "node email template engine",
+  "version": "0.0.1",
+  "author": "dreadjr",
+  "keywords": ["email", "template"],
+  "main" : "./stencil",
+  "dependencies": {
+    "jade: "*",
+  },
+  "repository" : {"type": "git" , "url": "https://github.com/dreadjr/node-email-stencil.git" },
+  "engines": { "node": ">=0.4.6" }
+}
